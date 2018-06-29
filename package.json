@@ -15,7 +15,7 @@
     "feathers-authentication-client": "^0.3.2",
     "feathers-client": "^2.2.0",
     "feathers-localstorage": "^1.0.0",
-    "feathers-rest": "^1.7.2",
+    "feathers-rest": "^1.8.1",
     "history": "^4.6.1",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
